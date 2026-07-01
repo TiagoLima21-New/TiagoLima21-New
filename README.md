@@ -1,4 +1,3 @@
-# 💫 About Me:
 🎓 Estudante de Engenharia Mecânica Industrial  <br>💻 Desenvolvedor em formação com foco em soluções operacionais, automações e sistemas internos  <br>⚙️ Atuo na interseção entre engenharia, tecnologia, dados e melhoria de processos  
 
 
