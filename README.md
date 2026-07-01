@@ -1,139 +1,18 @@
-# Olá, eu sou Tiago Lima 👋
+# 💫 About Me:
+🎓 Estudante de Engenharia Mecânica Industrial  <br>💻 Desenvolvedor em formação com foco em soluções operacionais, automações e sistemas internos  <br>⚙️ Atuo na interseção entre engenharia, tecnologia, dados e melhoria de processos  
 
-🎓 Estudante de Engenharia Mecânica Industrial  
-💻 Desenvolvedor em formação com foco em soluções operacionais, automações e sistemas internos  
-⚙️ Atuo na interseção entre engenharia, tecnologia, dados e melhoria de processos  
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ti.agokkj) 
 
-## Sobre mim
-
-Sou estudante de Engenharia Mecânica Industrial e atuo desenvolvendo soluções tecnológicas voltadas para problemas reais de operação, produtividade e controle.
-
-Tenho experiência prática criando ferramentas internas para automação de processos, análise de dados operacionais, roteirização, dashboards, relatórios e integração com bases corporativas.
-
-Atualmente, venho aprofundando meus estudos em desenvolvimento de software com foco em:
-
-- C# e .NET
-- Kotlin para desenvolvimento Android
-- SQL e PostgreSQL
-- Sistemas web e desktop
-- Automação de processos
-- Análise de dados operacionais
-- Integração com ferramentas corporativas
-
-Meu objetivo é construir soluções úteis, escaláveis e bem documentadas, unindo visão de engenharia, programação e gestão operacional.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=TiagoLima21-New&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=TiagoLima21-New&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=TiagoLima21-New&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=TiagoLima21-New&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Tecnologias e ferramentas
-
-<div align="left">
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft SharePoint](https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-</div>
-
----
-
-## Áreas de interesse
-
-- Desenvolvimento de sistemas internos
-- Aplicações desktop e web com .NET
-- Aplicativos Android com Kotlin
-- Banco de dados e modelagem de dados
-- Dashboards e relatórios gerenciais
-- Automação de processos operacionais
-- Engenharia aplicada à tecnologia
-- Sistemas para produtividade, manutenção e gestão
-
----
-
-## Projetos em destaque
-
-### Observador Operacional
-
-Sistema desenvolvido para transformar dados operacionais em indicadores, relatórios e visão gerencial.
-
-Principais objetivos:
-
-- Acompanhar status de processos
-- Identificar gargalos operacionais
-- Gerar relatórios automáticos
-- Melhorar previsibilidade da operação
-- Apoiar tomada de decisão com dados
-
-Tecnologias utilizadas:
-
-- C#  
-- .NET  
-- SQLite  
-- Microsoft Graph  
-- Microsoft Lists / SharePoint  
-- Razor Pages  
-
----
-
-### Ferramenta de Roteirização e Despacho Inteligente
-
-Aplicação voltada para organização, distribuição e despacho de demandas de campo.
-
-Principais funcionalidades:
-
-- Importação de base de notas
-- Organização por município e colaborador
-- Geração de rotas
-- Exportação de planilhas operacionais
-- Apoio à roteirização via Google My Maps
-- Redução de tempo em processos manuais
-
-Tecnologias utilizadas:
-
-- C#  
-- .NET  
-- Windows Forms  
-- Excel  
-- Google My Maps  
-
----
-
-### Automações com Google Sheets e Apps Script
-
-Soluções criadas para automatizar cálculos, relatórios e rotinas técnicas.
-
-Exemplos de aplicação:
-
-- Cálculo automatizado de indicadores
-- Relatórios mensais
-- Envio de e-mails técnicos
-- Organização de dados por período
-- Apoio à manutenção e análise operacional
-
-Tecnologias utilizadas:
-
-- Google Sheets  
-- Google Apps Script  
-- JavaScript  
-- Automação de planilhas  
-
----
-
-## Atualmente estudando
-
-```text
-C# e .NET        █████████░  Em evolução
-Kotlin Android   ██████░░░░  Em desenvolvimento
-PostgreSQL       ██████░░░░  Em desenvolvimento
-Azure            ████░░░░░░  Fundamentos
-Arquitetura      █████░░░░░  Em evolução
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
