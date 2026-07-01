@@ -76,15 +76,13 @@ Busco evoluir de forma consistente, entendendo os fundamentos por trás das ferr
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
 
-<div align="center">
+![](https://github-readme-stats.shion.dev/api?username=TiagoLima21-New&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![Tiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TiagoLima21-New&show_icons=true&theme=shadow_red&hide_border=false)
+![](https://streak-stats.demolab.com/?user=TiagoLima21-New&theme=shadow_red&hide_border=false)<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoLima21-New&theme=shadow_red&hide_border=false&layout=compact)
-
-</div>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=TiagoLima21-New&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
